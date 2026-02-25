@@ -1,0 +1,13 @@
+s = "HTTP encoding library list operations Parse yaml text hierarchy object null"
+print(s[0])
+print(s[5])
+print(s[14])
+print(s[14])
+print(s[8])
+print(s[4])
+print(s[38])
+print(s[20])
+print(s[25])
+print(s[54])
+print(s[27])
+print(s[35])

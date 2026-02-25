@@ -1,0 +1,2 @@
+date = "2024-12-31"
+print(date.split("-"))  
